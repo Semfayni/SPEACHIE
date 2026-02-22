@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 
 const YT_URL =
-    "https://www.youtube.com/watch?v=wRm1FpvqE4E&list=RDwRm1FpvqE4E&start_radio=1";
+    "https://www.youtube.com/watch?v=Lp7E973zozc&list=PLQltO7RlbjPJnbfHLsFJWP-DYnWPugUZ7";
 
 const videos = [
     { title: "Diction Warm-up", desc: "Quick warm-ups for clearer pronunciation." },

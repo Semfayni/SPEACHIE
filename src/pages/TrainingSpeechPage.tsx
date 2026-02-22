@@ -74,7 +74,7 @@ const TrainingSpeechPage = () => {
                 formData.append("style", style);
 
                 try {
-                    const res = await fetch("http://127.0.0.1:5000/analyze", {
+                    const res = await fetch(" https://unheroically-cerebrovisceral-ayako.ngrok-free.dev/analyze", {
                         method: "POST",
                         body: formData,
                     });

@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { motion } from "framer-motion";
 
 const YT_URL =
-    "https://www.youtube.com/watch?v=wRm1FpvqE4E&list=RDwRm1FpvqE4E&start_radio=1";
+    "https://www.youtube.com/watch?v=KxDwieKpawg&list=PL8zMYClIrmwc-S5VnJN4ASndMdCBLkGZo";
 
 const videos = [
     { title: "Speech Foundations", desc: "Build clarity and confidence in speaking." },
